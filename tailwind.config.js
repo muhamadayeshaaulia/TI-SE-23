@@ -3,6 +3,7 @@ tailwind.config = {
   theme: {
     extend: {
       colors: {
+        'clifford': '#da373d',
         'custom-purple': '#753a88',
         'custom-pink': '#cc2b5e',
         'custom-orange': 'tomato',

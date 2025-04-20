@@ -1,63 +1,29 @@
 <!DOCTYPE html>
 <html lang="id">
-
 <head>
-  <meta charset="UTF-8" />
+<meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="TI SE 23 adalah kelas jurusan Teknik Informatika di Global Institute. Temukan informasi lengkap tentang jadwal, galeri, dan konten terkait kelas ini." />
+  <meta name="keywords" content="TI SE 23, Teknik Informatika, kelas TI SE, jurusan teknik informatika, Global Institute" />
+  <meta name="author" content="Muhamad Ayesha Aulia" />
+
+  <meta property="og:title" content="TI SE 23 | Web Kelas" />
+  <meta property="og:description" content="Temukan informasi tentang kelas TI SE 23, jadwal kuliah, galeri, dan banyak lagi." />
+  <meta property="og:image" content="./asset/image/user.jpeg" />
+  <meta property="og:url" content="URL Halaman Web" />
+  <meta property="og:type" content="website" />
+  
   <title>TI SE 23 | Web Kelas</title>
-
-  <!-- Tailwind CDN -->
+  <link rel="icon" href="./asset/image/user.jpeg" type="image/x-icon" />
+  
   <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      darkMode: 'class'
-    }
-  </script>
-
-  <!-- AOS -->
+  <script src="tailwind.config.js"></script>
+  <link rel="stylesheet" href="./style/index.css" />
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-
-  <!-- Swiper -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
   <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
-  <!-- Feather Icons -->
   <script src="https://unpkg.com/feather-icons"></script>
-
-  <style type="text/tailwindcss">
-    @layer utilities {
-      .text-clifford {
-        color: #da373d;
-      }
-    }
-
-    #mobileMenu {
-      transition: transform 0.3s ease-in-out;
-    }
-
-    .translate-x-full {
-      transform: translateX(100%);
-    }
-
-    .overlay {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.5);
-      display: none;
-      z-index: 40;
-      opacity: 0;
-      transition: opacity 0.3s ease;
-    }
-
-    .overlay.visible {
-      display: block;
-      opacity: 1;
-    }
-  </style>
 </head>
 
 <body class="bg-white text-gray-800 dark:bg-gray-900 dark:text-gray-100 transition duration-300 font-sans">
@@ -70,4 +36,5 @@
   <?php include('./include/footer.php');?>
   <script src="./js/index.js"></script>
 </body>
+
 </html>
