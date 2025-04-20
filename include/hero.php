@@ -2,7 +2,8 @@
     <div class="max-w-5xl mx-auto px-4 text-center mb-10" data-aos="fade-down">
       <h2 class="text-4xl font-bold mb-4 text-clifford dark:text-red-400">Selamat Datang di Web Kelas TI SE 23</h2>
       <p class="text-lg text-gray-700 dark:text-gray-300 mb-10">
-        Website ini menampilkan profil kelas, galeri, dan dokumentasi kegiatan TI SE 23.
+        Kami adalah mahasiswa Teknik Informatika dari GLOBAL INSTITUT, kami siap bersaing dalam dunia teknologi yg terus berkembang
+        untuk negara dan dunia.
       </p>
     </div>
 

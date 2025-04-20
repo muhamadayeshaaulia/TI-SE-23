@@ -64,10 +64,10 @@
   <?php include('./include/nav.php');?>
   <?php include('./include/hero.php');?>
   <?php include('./include/about.php');?>
+  <?php include('./include/jadwal.php');?>
   <?php include('./include/galery.php');?>
   <?php include('./include/kontak.php');?>
   <?php include('./include/footer.php');?>
   <script src="./js/index.js"></script>
 </body>
-
 </html>
