@@ -67,13 +67,14 @@
       <h1 class="text-2xl md:text-3xl font-bold text-clifford dark:text-red-400">TI SE 23</h1>
 
       <!-- Desktop Navbar -->
-      <nav class="hidden md:flex space-x-8">
-        <a href="#home" class="text-gray-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white">Home</a>
-        <a href="#about" class="text-gray-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white">Tentang</a>
-        <a href="#gallery" class="text-gray-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white">Galeri</a>
-        <a href="#articles" class="text-gray-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white">Artikel</a>
-        <a href="#contact" class="text-gray-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white">Kontak</a>
-      </nav>
+        <nav class="hidden md:flex space-x-8">
+        <a href="#home" class="text-gray-500 dark:text-gray-300 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all">Home</a>
+        <a href="#about" class="text-gray-500 dark:text-gray-300 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all">Tentang</a>
+        <a href="#gallery" class="text-gray-500 dark:text-gray-300 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all">Galeri</a>
+        <a href="#articles" class="text-gray-500 dark:text-gray-300 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all">Artikel</a>
+        <a href="#contact" class="text-gray-500 dark:text-gray-300 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all">Kontak</a>
+        </nav>
+
 
       <!-- Dark Mode & Burger (mobile) -->
       <div class="md:hidden flex items-center gap-4">
@@ -101,11 +102,11 @@
       </button>
     </div>
     <div class="px-6 py-4 space-y-4">
-      <a href="#home" class="block text-gray-500 dark:text-gray-300 py-2" onclick="closeMobile()">Home</a>
-      <a href="#about" class="block text-gray-500 dark:text-gray-300 py-2" onclick="closeMobile()">Tentang</a>
-      <a href="#gallery" class="block text-gray-500 dark:text-gray-300 py-2" onclick="closeMobile()">Galeri</a>
-      <a href="#articles" class="block text-gray-500 dark:text-gray-300 py-2" onclick="closeMobile()">Artikel</a>
-      <a href="#contact" class="block text-gray-500 dark:text-gray-300 py-2" onclick="closeMobile()">Kontak</a>
+    <a href="#home" class="block text-gray-500 dark:text-gray-300 py-2 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all" onclick="closeMobile()">Home</a>
+    <a href="#about" class="block text-gray-500 dark:text-gray-300 py-2 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all" onclick="closeMobile()">Tentang</a>
+    <a href="#gallery" class="block text-gray-500 dark:text-gray-300 py-2 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all" onclick="closeMobile()">Galeri</a>
+    <a href="#articles" class="block text-gray-500 dark:text-gray-300 py-2 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all" onclick="closeMobile()">Artikel</a>
+    <a href="#contact" class="block text-gray-500 dark:text-gray-300 py-2 hover:text-red-500 dark:hover:text-red-400 hover:border-b-2 hover:border-red-500 transition-all" onclick="closeMobile()">Kontak</a>
     </div>
   </div>
 
