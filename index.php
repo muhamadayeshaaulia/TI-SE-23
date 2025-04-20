@@ -32,6 +32,7 @@
   <?php include('./include/about.php');?>
   <?php include('./include/jadwal.php');?>
   <?php include('./include/galery.php');?>
+  <?php include('./include/artikel.php');?>
   <?php include('./include/kontak.php');?>
   <?php include('./include/footer.php');?>
   <script src="./js/index.js"></script>

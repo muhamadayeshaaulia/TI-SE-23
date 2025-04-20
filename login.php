@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html lang="en" class="">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Login Page</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="TI SE 23 adalah kelas jurusan Teknik Informatika di Global Institute. Temukan informasi lengkap tentang jadwal, galeri, dan konten terkait kelas ini." />
+  <meta name="keywords" content="TI SE 23, Teknik Informatika, kelas TI SE, jurusan teknik informatika, Global Institute" />
+  <meta name="author" content="Muhamad Ayesha Aulia" />
+
+  <meta property="og:title" content="TI SE 23 | Web Kelas" />
+  <meta property="og:description" content="Temukan informasi tentang kelas TI SE 23, jadwal kuliah, galeri, dan banyak lagi." />
+  <meta property="og:image" content="./asset/image/user.jpeg" />
+  <meta property="og:url" content="URL Halaman Web" />
+  <meta property="og:type" content="website" />
+  
+  <title>TI SE 23 | Login</title>
+  <link rel="icon" href="./asset/image/user.jpeg" type="image/x-icon" />
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="tailwind.config.js"></script>
   <link rel="stylesheet" href="./style/login.css">
@@ -11,16 +21,9 @@
 <body>
 
   <section class="h-screen pt-[2%] relative flex items-center justify-center">
-    <!-- 🟦 Top Blue -->
     <div class="top-blue w-[250px] h-[250px] bg-blue-400 rounded-full absolute left-[50%] animate-top-blue"></div>
-
-    <!-- 🟣 Bottom Pink -->
     <div class="bottom-pink w-[280px] h-[280px] rounded-full absolute top-[50%] left-[12%] lg:left-[30%] animate-bottom-pink bg-gradient-to-br from-custom-purple to-custom-pink"></div>
-
-    <!-- 🟠 Top Orange -->
     <div class="top-orange w-[300px] h-[300px] rounded-full absolute top-[5%] left-[5%] md:left-[23%] lg:left-[30%] animate-top-orange bg-gradient-to-br from-red-800 to-custom-orange"></div>
-
-    <!-- 💳 Login Box -->
     <div class="container w-[350px] sm:w-[350px] m-auto text-center p-8 z-10 backdrop-blur-2xl rounded-2xl border-b-4 border-l-4 border-white/30 shadow-lg">
       <img 
         src="https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png" 
