@@ -64,9 +64,13 @@
       <p id="modalNim" class="text-sm text-gray-600 dark:text-gray-300"></p>
       <p id="modalClass" class="text-sm text-gray-600 dark:text-gray-300"></p>
       <p id="modalSkill" class="text-sm text-gray-600 dark:text-gray-300 mb-4"></p>
-      <div class="flex justify-center gap-4">
-        <a id="modalSocial" href="#" target="_blank" class="text-blue-500 hover:underline">Instagram</a>
-        <a id="modalWebsite" href="#" target="_blank" class="text-blue-500 hover:underline">Website</a>
+      <div class="flex justify-center gap-4 text-blue-500">
+        <a id="modalSocial" href="#" target="_blank" class="hover:text-blue-700">
+          <i class="fab fa-github text-2xl"></i>
+        </a>
+        <a id="modalWebsite" href="#" target="_blank" class="hover:text-blue-700">
+          <i class="fas fa-globe text-2xl"></i>
+        </a>
       </div>
     </div>
   </div>

@@ -9,16 +9,17 @@
 
   <meta property="og:title" content="TI SE 23 | Web Kelas" />
   <meta property="og:description" content="Temukan informasi tentang kelas TI SE 23, jadwal kuliah, galeri, dan banyak lagi." />
-  <meta property="og:image" content="./asset/image/user.jpeg" />
+  <meta property="og:image" content="./asset/image/SEP2.png" />
   <meta property="og:url" content="URL Halaman Web" />
   <meta property="og:type" content="website" />
   
   <title>TI SE 23 | Web Kelas</title>
-  <link rel="icon" href="./asset/image/user.jpeg" type="image/x-icon" />
+  <link rel="icon" href="./asset/image/SEP2.PNG" type="image/x-icon" />
   
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="tailwind.config.js"></script>
   <link rel="stylesheet" href="./style/index.css" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
@@ -37,5 +38,4 @@
   <?php include('./include/footer.php');?>
   <script src="./js/index.js"></script>
 </body>
-
 </html>

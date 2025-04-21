@@ -1,4 +1,4 @@
-<header class="bg-white dark:bg-gray-800 shadow-md sticky top-0 z-50">
+<header class="bg-white bg-gradient-to-r from-blue-100 to-purple-100 dark:from-gray-800 dark:to-gray-700 border-t dark:border-gray-700 shadow-md sticky top-0 z-50">
     <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
       <h1 class="text-2xl md:text-3xl font-bold text-clifford dark:text-red-400">TI SE 23</h1>
 
@@ -24,7 +24,7 @@
     </div>
   </header>
 
-  <div id="mobileMenu" class="md:hidden bg-white dark:bg-gray-800 fixed top-0 right-0 w-3/4 h-full z-50 hidden transform translate-x-full shadow-lg">
+  <div id="mobileMenu" class="md:hidden bg-gradient-to-r from-blue-100 to-purple-100 dark:from-gray-800 dark:to-gray-700 border-t dark:border-gray-700 fixed top-0 right-0 w-3/4 h-full z-50 hidden transform translate-x-full shadow-lg">
     <div class="flex justify-between items-center px-6 py-4 border-b dark:border-gray-700">
       <h2 class="text-xl font-bold text-clifford dark:text-red-400">Menu</h2>
       <button id="closeMenu" class="text-gray-500 dark:text-gray-300">

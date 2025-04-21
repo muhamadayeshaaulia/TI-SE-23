@@ -8,12 +8,12 @@
 
   <meta property="og:title" content="TI SE 23 | Web Kelas" />
   <meta property="og:description" content="Temukan informasi tentang kelas TI SE 23, jadwal kuliah, galeri, dan banyak lagi." />
-  <meta property="og:image" content="./asset/image/user.jpeg" />
+  <meta property="og:image" content="./asset/image/SEP2.png" />
   <meta property="og:url" content="URL Halaman Web" />
   <meta property="og:type" content="website" />
   
   <title>TI SE 23 | Login</title>
-  <link rel="icon" href="./asset/image/user.jpeg" type="image/x-icon" />
+  <link rel="icon" href="./asset/image/SEP2.png" type="image/x-icon" />
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="tailwind.config.js"></script>
   <link rel="stylesheet" href="./style/login.css">
