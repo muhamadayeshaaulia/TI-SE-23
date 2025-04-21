@@ -7,6 +7,10 @@ tailwind.config = {
         'custom-purple': '#753a88',
         'custom-pink': '#cc2b5e',
         'custom-orange': 'tomato',
+        primary: '#4299E1',
+        primaryHover: '#3182CE',
+        danger: '#E53E3E',
+        dangerHover: '#C53030',
       },
       animation: {
         passport: 'passport 5s linear 4s infinite alternate',
