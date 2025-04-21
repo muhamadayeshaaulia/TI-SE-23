@@ -1,4 +1,4 @@
 Created : yesha.dev
 
 ##
-masih dalam tahap pengembangan
+masih dalam tahap pengembangan mohon bersabar
